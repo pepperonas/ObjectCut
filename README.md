@@ -30,13 +30,13 @@ A modern PyQt5-based tool for extracting objects from images with transparency.
 2. Install the dependencies:
 
 ```bash
-pip install PyQt5 opencv-python numpy rembg
+pip install -r requirements.txt 
 ```
 
 3. Start the application:
 
 ```bash
-python object_extractor.py
+python3 object_extractor.py
 ```
 
 ## Usage
